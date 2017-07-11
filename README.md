@@ -8,4 +8,4 @@ A competitive/co-op super break/pong clone
 
 # Early preview screenshot
 
-<img src="/img/shot1.png" />
+<img src="/img/brixr-beta-screenshot.png" />
